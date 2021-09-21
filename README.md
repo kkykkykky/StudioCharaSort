@@ -1,6 +1,6 @@
 # StudioCharaSort
 
-A simple plugin that lets you change the default behaviour of how character cards are sorted in Studio. Works in AI, Honey Select 2, and Koikatsu.
+A simple plugin that lets you change the default behaviour of how character cards are sorted in Studio. Works in AI, Honey Select 2, Koikatsu, and Koikatsu Sunshine.
 
 **Downlaod:**
  - Get latest version from the Release page.
