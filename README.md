@@ -1,6 +1,6 @@
 # StudioCharaSort
 
-A simple plugin that lets you change the default behaviour of how character cards are sorted in Studio. Works in AI Girl, Honey Select 2, Koikatsu, and Koikatsu Sunshine. Also works with coordinate cards in Room Girl.
+A simple plugin that lets you change the default behaviour of how character cards are sorted in Studio. Works in AI Girl, Honey Select 2, Koikatsu, and Koikatsu Sunshine. Also works with coordinate cards in Room Girl and HoneyCome.
 
 **Downlaod:**
  - Get latest version for your game from the Release page.
